@@ -4,3 +4,5 @@
 - This repo is used for store my spacevim config file.
 - filemanager is changed to nvim-tree.lua
 - Treesiiter will enable highlight while open a file.
+
+- ctags cscope and etc.. were installed first.
